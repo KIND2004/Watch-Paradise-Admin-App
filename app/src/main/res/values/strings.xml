@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WatchParadiseAdmin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="manage_products">Manage Products</string>
+    <string name="manage_users">Manage Users</string>
+    <string name="add_new_product">Add New Product</string>
+    <string name="logout">Log Out</string>
+    <string name="add_new_brand">Add New Brand</string>
+    <string name="manage_brands">Manage Brands</string>
+    <string name="drawer_open">Open Menu</string>
+    <string name="drawer_close">Close Menu</string>
+    <string name="copyright">\@ Watch Paradise 2023</string>
+    <string name="version">V 1.0.0</string>
+    <string name="login_title">Sign In to Your Admin Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="product_title">Product Title</string>
+    <string name="product_brand">Product Brand</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="product_description">Product Description</string>
+    <string name="update_product">Update Product</string>
+</resources>
